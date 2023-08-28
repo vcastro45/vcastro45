@@ -51,8 +51,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/vcastro45/vcastro45/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">
